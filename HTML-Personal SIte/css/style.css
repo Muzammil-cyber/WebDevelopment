@@ -1,0 +1,29 @@
+body {
+    background-color: #23374D;
+    color: #E5E5E5;
+    font-family: "copperplate",fantasy;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-width: thick;
+    border-color: #1089ff;
+}
+
+h1 {
+    color: #E5E5E5;
+    font-family: cursive;
+}
+h3 {
+    color: #E5E5E5;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+text {
+    color: #EEEEEE ;
+}
+a {
+    color: #1089ff;
+}
